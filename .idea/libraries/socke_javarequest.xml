@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="socke_javarequest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/socke_javarequest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
